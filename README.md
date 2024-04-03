@@ -1,16 +1,14 @@
-# ai_assistant
+# ai_assistant 
+# Author: Phạm Anh Quân
 
-A new Flutter project.
+# Description
+This Flutter application is a chatbot app powered by the ChatGPT 3.5 Turbo API. It allows users to interact with an AI-powered chatbot to engage in conversations on various topics.
 
-## Getting Started
+# Features
+Seamless integration with ChatGPT 3.5 Turbo API for advanced conversational capabilities.
+User-friendly interface designed using Flutter framework.
+Utilizes Appwrite as the backend database solution for storing user data and chat logs.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Requirements
+Flutter SDK
+Appwrite server instance (can be self-hosted or cloud-based)
