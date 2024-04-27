@@ -1,6 +1,6 @@
 # ai_assistant 
 # Author: Phạm Anh Quân
-
+link demo youtube: https://youtu.be/b-k1EZEvWVM?si=ISn7TZVa8emry63H
 # Description
 This Flutter application is a chatbot app powered by the ChatGPT 3.5 Turbo API. It allows users to interact with an AI-powered chatbot to engage in conversations on various topics.
 
